@@ -1,4 +1,4 @@
-![web102-prework](https://github.com/obianuju1/web102_prework/assets/83367389/b6971932-2beb-49fb-87b9-db66122ccab8)![web102-prework](https://github.com/obianuju1/web102_prework/assets/83367389/0d0951d9-d5e1-40c0-bda8-f7315b0325cb)# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Name of App Here*
 
 Submitted by: **Your Name Here**
 
