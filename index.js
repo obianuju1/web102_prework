@@ -104,16 +104,6 @@ gamesCard.innerHTML=`${total}`;
  * total number of contributions, amount donated, and number of games on the site.
  * Skills used: functions, filter
 */
-//seaworthy
-//OOZEdiveTRAPpine
-//6games-container.stats-card15
-
-//11seafoamGAMES_JSON
-//19187800268BRAIN
-
-//74FLANNELclick
-//toLocaleString<div>1ivy
-//zoohowCEDAR
 
 // show only games that do not yet have enough funding
 function filterUnfundedOnly() {
